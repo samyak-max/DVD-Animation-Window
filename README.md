@@ -1,20 +1,14 @@
 # DVD Animation Window
 This project is a Windows Forms application that animates a selected open window by bouncing it around the screen, similar to the classic DVD screensaver. It uses P/Invoke to interact with the Windows API for window management tasks.
 
-# Features
-•	Enumerates all open windows.
+![13](https://github.com/user-attachments/assets/5f45249c-d767-4057-b7e3-fadeeddf0314)
 
-•	Allows the user to select a window to animate.
-
-•	Animates the selected window by bouncing it around the screen.
-
-# Getting Started
-## Prerequisites
+# Prerequisites
 •	.NET Framework
 
 •	Visual Studio
 
-## Running the Application
+# Running the Application
 1.	Clone the repository.
 2.	Open the solution in Visual Studio.
 3.	Build the solution.
