@@ -26,7 +26,7 @@ This project is a Windows Forms application that animates a selected open window
 3.	The selected window will start bouncing around the screen.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 # Acknowledgments
 Inspired by the classic DVD screensaver.
