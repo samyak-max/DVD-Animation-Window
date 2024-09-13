@@ -3,7 +3,9 @@ This project is a Windows Forms application that animates a selected open window
 
 # Features
 •	Enumerates all open windows.
+
 •	Allows the user to select a window to animate.
+
 •	Animates the selected window by bouncing it around the screen.
 
 # Getting Started
