@@ -2,6 +2,7 @@
 This project is a Windows Forms application that animates a selected open window by bouncing it around the screen, similar to the classic DVD screensaver. It uses P/Invoke to interact with the Windows API for window management tasks.
 
 ![13](https://github.com/user-attachments/assets/5f45249c-d767-4057-b7e3-fadeeddf0314)
+Animating a chrome window with DVD logo open on a tab
 
 # Prerequisites
 •	.NET Framework
